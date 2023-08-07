@@ -25,3 +25,8 @@ You can find what I am working on in my #100DaysOfPython over at my Twitter, [fo
 ![](Images/Phase3_Example.png) </br>
 - Allows the users to enter decimal numbers.
     - I am aware that floats are not entirely accurate. This is just a fun calculator project, okay? It's not something someone will actually use!
+
+### Phase 4
+![](Images/Phase4_Example.png) </br>
+- Made a function that would get rid of the trailing .0 on a float that was a whole number.
+- Makes the answer look a little cleaner.
