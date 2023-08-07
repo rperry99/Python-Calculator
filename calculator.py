@@ -12,7 +12,12 @@ def equation_input():
     # Call the function to do the math
     do_the_math(num1, num2, operator)
 
-
+### Function to get rid of the floating 0 in the answer sentence
+def remove_zero(number):
+    if number % 1 == 0:
+        return int(number)
+    else:
+        return number
 
 ### Function to do the operation
 def do_the_math(num1, num2, operator):
@@ -28,7 +33,9 @@ def do_the_math(num1, num2, operator):
         case _:
             print("You have entered an invalid formula. Please try again.")
             return
-    print("The answer to", num1, operator, num2, "is", final_answer)
+    
+    # Print out the number to the console    
+    print("The answer to", remove_zero(num1), operator, remove_zero(num2), "is", remove_zero(final_answer))
         
 # Start the program
 equation_input()
