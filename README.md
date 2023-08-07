@@ -4,7 +4,7 @@ This is a simple calculator that I am making as part of my #100DaysOfCode challe
 You can find what I am working on in my #100DaysOfPython over at my Twitter, [found here](https://twitter.com/russintech/status/1687943560409038848?s=20).
 
 ## To-do List
-- Make the input section it's own function.
+- ~~Make the input section it's own function.~~
 - Add ability to use floats.
 - Let the user do 3 numbers.
 - Add exponents
