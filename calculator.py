@@ -5,9 +5,9 @@ def equation_input():
 
     # Split their equation string into an array. For the numbers, I also convert the string to int here.
     split_equation = string_equation.split()
-    num1 = int(split_equation[0])
+    num1 = float(split_equation[0])
     operator = split_equation[1]
-    num2 = int(split_equation[2])
+    num2 = float(split_equation[2])
 
     # Call the function to do the math
     do_the_math(num1, num2, operator)
