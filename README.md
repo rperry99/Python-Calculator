@@ -22,5 +22,6 @@ You can find what I am working on in my #100DaysOfPython over at my Twitter, [fo
 - Reworded the answer phrase so it makes a little more sense to be read.
 
 ### Phase 3
+![](Images/Phase3_Example.png) </br>
 - Allows the users to enter decimal numbers.
     - I am aware that floats are not entirely accurate. This is just a fun calculator project, okay? It's not something someone will actually use!
