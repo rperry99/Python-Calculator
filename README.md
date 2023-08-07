@@ -5,7 +5,7 @@ You can find what I am working on in my #100DaysOfPython over at my Twitter, [fo
 
 ## To-do List
 - ~~Make the input section it's own function.~~
-- Add ability to use floats.
+- ~~Add ability to use floats.~~
 - Let the user do 3 numbers.
 - Add exponents
 
@@ -20,3 +20,7 @@ You can find what I am working on in my #100DaysOfPython over at my Twitter, [fo
 ![](Images/Phase2_Example.png) </br>
 - Refactored the code so that the portion of asking for input, and formatting the input so that it's a callable function.
 - Reworded the answer phrase so it makes a little more sense to be read.
+
+### Phase 3
+- Allows the users to enter decimal numbers.
+    - I am aware that floats are not entirely accurate. This is just a fun calculator project, okay? It's not something someone will actually use!
