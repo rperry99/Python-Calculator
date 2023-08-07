@@ -15,3 +15,8 @@ You can find what I am working on in my #100DaysOfPython over at my Twitter, [fo
 - The program takes an input in a simple format (XX + YY), and can spit out the answer.
 - Currently accepts +, -, *, and / as operators.
 - Currently only works with integers, but will spit out decimals for unequal division. 
+
+### Phase 2
+![](Images/Phase2_Example.png) </br>
+- Refactored the code so that the portion of asking for input, and formatting the input so that it's a callable function.
+- Reworded the answer phrase so it makes a little more sense to be read.
